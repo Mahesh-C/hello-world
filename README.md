@@ -1,2 +1,3 @@
 # hello-world
 experimenting...
+I would like to see how good I am at R and doing data analysis (risk-related) using R. 
